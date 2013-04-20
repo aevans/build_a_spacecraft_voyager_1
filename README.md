@@ -58,4 +58,4 @@ Resources:
 4. http://www.ldraw.org/parts/latest-parts.html
 5. http://www.hassings.dk/l3/l3p.html
 
-#spaceapps #adoptvoyager #lego #ldraw #bricksmith
+\#spaceapps #adoptvoyager #lego #ldraw #bricksmith
