@@ -1,0 +1,41 @@
+Quantity	Part	Description	Color
+3	87618.dat	Bar  4.5L with Handle	Light Gray
+1	30374.dat	Bar  4L Light Sabre Blade	Dark Gray
+1	87994.dat	Bar 3L	Black
+1	87994.dat	Bar 3L	Dark Brown
+3	44728.dat	Bracket  1 x  2 -  2 x  2	Dark Gray
+3	3062b.dat	Brick  1 x  1 Round with Hollow Stud	Dark Gray
+2	2877.dat	Brick  1 x  2 with Grille	Dark Gray
+1	3941.dat	Brick  2 x  2 Round	Black
+1	4740.dat	Dish  2 x  2 Inverted	White
+2	43898.dat	Dish  3 x  3 Inverted	Light Gray
+1	3961.dat	Dish  8 x  8 Inverted	White
+1	2335.dat	Flag  2 x  2	Light Gray
+2	3937.dat	Hinge  1 x  2 Base	Dark Gray
+1	3938.dat	Hinge  1 x  2 Top	Dark Gray
+1	6134.dat	Hinge  2 x  2 Top	Dark Gray
+12	4276a.dat	Hinge Plate  1 x  2 with 2 Fingers and Solid Studs	Dark Gray
+12	4275a.dat	Hinge Plate  1 x  2 with 3 Fingers and Solid Studs	Dark Gray
+1	64644.dat	Minifig Telescope	Light Gray
+1	3741.dat	Plant Flower Stem	White
+1	3024.dat	Plate  1 x  1	Dark Gray
+3	4081a.dat	Plate  1 x  1 with Clip Light Type 1	Dark Gray
+2	4085c.dat	Plate  1 x  1 with Clip Vertical Type 3	Dark Gray
+1	3023.dat	Plate  1 x  2	Dark Gray
+4	3794a.dat	Plate  1 x  2 without Groove with 1 Centre Stud	Dark Gray
+2	3022.dat	Plate  2 x  2	Dark Gray
+1	4032a.dat	Plate  2 x  2 Round with Axlehole Type 1	Black
+1	3020.dat	Plate  2 x  4	Dark Gray
+2	61409.dat	Slope Brick 18  2 x  1 x   2/3 Grille	Dark Gray
+5	2580c01.dat	Support  2 x  2 x  5 Lattice Pillar (Complete)	Dark Gray
+1	6541.dat	Technic Brick  1 x  1 with Hole	Dark Gray
+2	57274.dat	Technic Flex-System Hose 32L (640LDU)	Light Gray
+1	30039.dat	Tile  1 x  1 with Groove	Dark Gray
+2	3069bp05.dat	Tile  1 x  2 with Black Grille Pattern	Dark Gray
+1	3069b.dat	Tile  1 x  2 with Groove	Dark Gray
+1	3069bp53.dat	Tile  1 x  2 with Mars Orbit Display Pattern	Dark Gray
+1	30106.dat	Tile  2 x  2 Round with Globe  2 x  2 x  2	Dark Gray
+1	4150ps3.dat	Tile  2 x  2 Round with Star Wars Dejarik Hologame Board Pattern	Earth Orange
+2	3068bp07.dat	Tile  2 x  2 with Black Grille Pattern	Dark Gray
+1	3068b.dat	Tile  2 x  2 with Groove	Dark Gray
+1	3068bps0.dat	Tile  2 x  2 with SW Snowspeeder Vent Pattern	Dark Gray
